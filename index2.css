@@ -1,0 +1,11 @@
+
+body{
+    background-color: black !important;
+}
+
+#space{
+    visibility: hidden;
+}
+/* #myCheckbox input:checked {
+    accent-color: green !important;
+} */
